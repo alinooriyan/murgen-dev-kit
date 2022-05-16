@@ -1,4 +1,4 @@
-# The Murgen open-source ultrasound imaging dev-kit 
+# The Seemon open-source ultrasound imaging dev-kit 
 
 ## What is this ?
  
